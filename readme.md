@@ -34,8 +34,8 @@ npm run build
 
 ## Screenshots
 
-![Screenshot]()
-[Demo]()
+![haunted_house-screenshot](https://user-images.githubusercontent.com/57517804/134125788-f413af93-a2d8-4655-adcd-b850870cbcaf.png)
+[Demo](https://relaxed-goldberg-5232d1.netlify.app/)
 
 ## Technologies
 
